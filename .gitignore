@@ -1,0 +1,8 @@
+poetry.lock
+__pycache__/
+migrations/
+*.py[cow]
+.DS_Store/
+.idea/
+db.sqlite3
+*.log
